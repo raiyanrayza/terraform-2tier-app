@@ -1,1 +1,1 @@
-# terraform-2tier-app
+# terraform-2tier
