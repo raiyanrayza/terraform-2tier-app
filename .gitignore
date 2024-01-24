@@ -1,0 +1,8 @@
+#
+**/.terraform/* 
+#
+**/.terraformignore
+#
+**/.terraform.lock*
+#
+**/.terraform.tfstate.lock*
